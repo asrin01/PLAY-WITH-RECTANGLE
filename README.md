@@ -1,1 +1,2 @@
-# PLAY-WITH-RECTANGLE
+# collisionAlgorithm
+Algorithm to detect collision between two objects
